@@ -12,6 +12,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 a{
     text-decoration: none;
 }
@@ -19,6 +20,13 @@ a{
 ul {
 padding: 0;
 }
+
+.nav-menu__text {
+    font-size: 18px;
+    color: #FAFAFA;
+    font-family: 'Montserrat';
+}
+
 /* HEADER */
 
 .header{
@@ -38,10 +46,10 @@ padding: 0;
 }
 
 .header-logo {
-    padding: 10px;
+    padding: 15px;
 }
 
-.header-nav__menu{
+.nav-menu{
     margin : 0 5px;
     padding: 0 10px;
     width: 80%;
@@ -52,12 +60,6 @@ padding: 0;
     background-size: cover;
     background-repeat: no-repeat;
 }
-
-.{
-    font-family: 'Montserrat';
-    color: #FAFAFA;
-}
-
 
 .header-cont{
     margin: 150px 80px 70px;
