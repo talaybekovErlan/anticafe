@@ -6,10 +6,20 @@ body{
     margin: 0;
     padding: 0;
 }
+
 a{
     text-decoration: none;
 }
 
+ul {
+padding: 0;
+}
+
+.nav-menu__text {
+    font-size: 18px;
+    color: #FAFAFA;
+    font-family: 'Montserrat';
+}
 
 /* HEADER */
 
@@ -35,6 +45,13 @@ a{
 
 .header-nav__menu{
     width: 70%;
+    padding: 15px;
+}
+
+.nav-menu{
+    margin : 0 5px;
+    padding: 0 10px;
+    width: 80%;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -42,7 +59,6 @@ a{
     background-size: cover;
     background-repeat: no-repeat;
 }
-
 
 .header-cont{
     margin: 150px 80px 70px;
