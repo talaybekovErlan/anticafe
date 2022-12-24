@@ -14,8 +14,13 @@ a{
 
 .header{
     background-image: url(/anticafe/img/header-bg.jpg);
-    height: 1013px;
+    height: 100vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+
+.header-cont{
+    margin: 150px 80px 70px;
 }
