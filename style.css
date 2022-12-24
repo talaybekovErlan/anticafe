@@ -10,6 +10,13 @@ body{
 a{
     text-decoration: none;
 }
+.material-symbols-outlined{
+    color: white;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url(./fonts/Montserrat-Medium.ttf); 
+}
 
 ul {
 padding: 0;
