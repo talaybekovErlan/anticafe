@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+/* HEADER */
+
+.header{
+    background-image: url(/anticafe/img/header-bg.jpg);
+    height: 1013px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
