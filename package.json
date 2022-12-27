@@ -1,0 +1,22 @@
+{
+  "name": "anticafe",
+  "version": "1.0.0",
+  "description": "Danya and Erla works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talaybekovErlan/anticafe.git"
+  },
+  "author": "s1dxes and mercury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talaybekovErlan/anticafe/issues"
+  },
+  "homepage": "https://github.com/talaybekovErlan/anticafe#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
