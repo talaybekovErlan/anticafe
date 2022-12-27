@@ -39,6 +39,9 @@ padding: 0;
     height: 100vh;
 }
 
+.header--gradient{
+    background: rgba(112, 112, 112, 0.34);
+}
 .header-nav{
     display: flex;
     justify-content: space-around;
